@@ -6,9 +6,8 @@
 </p>
 <h2 align="center">
 Auto Script Install All VPN ssh vip Service Mod
- 
+</p>
 Powered By:
-  
 kiplymacho
 
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
