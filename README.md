@@ -5,8 +5,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=K+I+P+L+Y+M+A+C+H+O" />
 </p>
 <h2 align="center">
-Auto Script Install All VPN ssh vip Service
-Mod By kiplymacho
+Auto Script Install All VPN ssh vip Service Mod 
+By kiplymacho
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
 
 </p> 
