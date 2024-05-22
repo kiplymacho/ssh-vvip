@@ -8,7 +8,7 @@
 
 <h2 align="center">
 Auto Script Install All VPN Service
-Mod By SL
+Mod By kiplymacho
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
 
 </p> 
@@ -24,8 +24,8 @@ Mod By SL
 https://github.com/fisabiliyusri/XRAY-MANTAP
 ### Script Khusus Xray Multi Port TERBARU
 
-### Link Grup FB: 
-https://www.facebook.com/groups/1880372362109422/?ref=share
+### Link Halaman FB: 
+https://www.facebook.com/httpcustomkiplymacho
 ### Info:
 * HARAP DI BACA & UTAMAKAN MEMBACA
 # INI SCRIPT KHUSUS UNTUK MEMBUAT SERVER VPN
@@ -111,8 +111,8 @@ rm -f setup.sh && apt update && apt upgrade -y && update-grub && sleep 2 && apt-
 * • 22, 2253
 
 ### Jangan Lupa Traktir Kopi
-<a href="https://trakteer.id/sulaiman-l/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height="40" style="border: 0px; height: 40px;" alt="Trakteer Saya"></a>
-https://trakteer.id/sulaiman-l/tip
+<a href="https://paypal.me/kiplymacho" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height="40" style="border: 0px; height: 40px;" alt="Trakteer Saya"></a>
+https://paypal.me/kiplymacho
 
 ### 5. MENU, INFO ,UPDATE ,FIX
 * untuk menampilkan menu
